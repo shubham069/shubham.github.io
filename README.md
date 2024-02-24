@@ -1,10 +1,10 @@
 # Personal-Website
-# Darshan Bajgain Portfolio Website
+# Shubham Shukla Portfolio Website
 
-This is a simple personal portfolio website created by Darshan Bajgain. It is a platform to showcase your work, share your resume, 
+This is a simple personal portfolio website created by Shubham Shukla. It is a platform to showcase your work, share your resume, 
 and give you contact information so you can connect with them. The website uses HTML, CSS (with Tailwind CSS), and JavaScript. You can use this as a template.
 
-## Live Preview: [click here](https://darshanbajgain.github.io/Perosnal-Website/)
+## Live Preview: [click here]
 
 ## Table of Contents
 
@@ -45,4 +45,4 @@ and give you contact information so you can connect with them. The website uses 
 1. Clone the repository to your local machine.
 
    ```bash
-   https://github.com/darshanbajgain/Perosnal-Website.git
+   
